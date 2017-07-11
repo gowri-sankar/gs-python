@@ -18,6 +18,7 @@ def del_common():
 	for x in range(1,1000):
 		if x % 15 == 0:
 			common = common + x
+			
 multiples3()
 multiples5()
 del_common()
