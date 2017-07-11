@@ -1,3 +1,8 @@
+'''
+The Fibonacci sequence is defined by the recurrence relation:
+Fn = Fn−1 + Fn−2, where F1 = 1 and F2 = 1.
+What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
+'''
 n1 = 0
 n2 = 1
 n3 = 0
